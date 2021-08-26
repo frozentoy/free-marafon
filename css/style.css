@@ -1,0 +1,78 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+  line-height: 20px;
+  color: #AE7C78;
+  background-color: grey; /* временное свойство*/
+}
+
+.header-nav-list a {
+	color: #AE7C78;
+	text-decoration: none;
+}
+
+.header-nav-list li,
+.features li,
+.assortment li,
+.steps li,
+.news li,
+.reviews li,
+.main-footer a {
+	list-style-type: none;
+}
+
+.promo h2,
+.discounts h2 {
+	font-size: 44px;
+	line-height: 59px;
+}  
+
+.promo h2 span {
+	font-style: italic;
+}
+
+.promo p,
+.popular h3,
+.popular p:last-of-type,
+.news p {
+	font-size: 24px;
+	font-height: 29px;
+}
+
+.promo a,
+.popular a,
+.assortment a,
+.discounts h2,
+.discounts p,
+.main-footer a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.features h3,
+.popular h3,
+.popular p:last-of-type,
+.steps h3,
+.reviews cite,
+.map dd {
+	font-weight: 500;
+}
+
+.popular h2,
+.assortment h3,
+.steps h2,
+.news h2,
+.reviews h2,
+.map p {
+	font-weight: 700;
+	font-size: 36px;
+  line-height: 48px;
+}
+
+.map a {
+	color: #AE7C78;
+}
+
